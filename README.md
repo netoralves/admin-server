@@ -1,2 +1,1 @@
-# admin-server
-Spring Boot Admin
+projeto de admin do springboot
