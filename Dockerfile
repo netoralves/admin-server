@@ -7,7 +7,7 @@ ARG jar_file=$jar_file
 ENV spring_application_name admin-server
 ARG spring_application_name=$spring_application_name
 
-ENV spring_profiles_active homolog
+ENV spring_profiles_active hmlg
 ARG spring_profiles_active=$spring_profiles_active
 
 #ENV spring_cloud_config_uri http://config.hmlg.svc:8080/
